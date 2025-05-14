@@ -11,7 +11,7 @@ class Sparrow extends Bird {
     }
 }
 
-// 🛑 Пример нарушения (не использовать в main):
+// Should not be like that
 class Ostrich extends Bird {
     @Override
     public void fly() {

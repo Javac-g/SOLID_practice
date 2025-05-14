@@ -70,6 +70,6 @@ MIT License. Free to use and distribute for educational and non-commercial purpo
 
 ## Author
 
-Your Name  
+Maksym Denysov
 GitHub: https://github.com/Javac-g  
 
